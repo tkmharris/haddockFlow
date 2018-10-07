@@ -1,0 +1,10 @@
+rough scheme of work:
+
+1. Toots twice a day
+2. by default it toots from regularWords.txt (ML-related words)
+3. on a random chance (1 in 10? less likely?) it tooks a funnier one from specialWords.txt (jokes, basically)
+4. all toots are formatted the same way (first letter caps, add exclamation mark)
+5. once a word has been tooted, remove it from the regular/special words files and add it to a list of used words.
+6. if there are no words left in regular/special words, pick one at random from the used words and DM me to add more words / don't toot, remind me to add more
+
+host on AWS / linode?

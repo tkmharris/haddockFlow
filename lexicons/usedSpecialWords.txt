@@ -1,0 +1,15 @@
+backpropogation
+Andrew Ng
+guesswork
+no free lunch
+Natural Language Processing
+the Cloud
+over-fitting
+TensorFlow
+linear algebra
+roko
+numpy
+AGI
+nerds
+MNIST
+basilisk

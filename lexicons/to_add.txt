@@ -2,5 +2,3 @@
 
 
 ## Special
-basilisk
-roko

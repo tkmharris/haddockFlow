@@ -1,0 +1,92 @@
+Peter Flach
+bagging
+pattern identification
+clustering
+skew
+regression
+Bayesian
+genetic algorithm
+affine transformation
+layers
+fault diagnosis
+claasifier
+grid search
+norm
+loss curves
+iterations
+computer vision
+support vector machine
+Voroni tesselation
+monitoring
+cost function
+recognition
+topological data analysis
+covariance
+representation
+Genetic
+optimizer
+feature
+boosting
+2-norm
+data mining
+data reduction
+Naive Bayes
+neurons
+bootstrap
+reinforcement
+1-norm
+attribute
+homology
+optical character recognition
+bias-variance
+neural network
+AWS
+gradient descent
+prediction
+back propagation
+dense
+auto-encoder
+back propogation
+null values
+predictive analytics
+SVM
+drop-off
+random forest
+activation function
+training set
+filtering
+convex hull
+sparsity
+priors
+persistence
+PCA
+pandas
+convergence
+optimal parameters
+decision tree
+big data
+k-fold cross validation
+support vector
+parameter
+eigenfaces
+training set
+nonparametric bootsrap
+subgroup discovery
+linearity
+barcode
+composition
+selection bias
+confidence intervals
+forward-stepwise regression
+weights
+continuous piecewise linear functions
+logistic curve
+generalization
+constrained optimisation
+projection
+Toeplitz matrices
+buckets
+pixels
+feature tree
+horn theory
+convolve layer
